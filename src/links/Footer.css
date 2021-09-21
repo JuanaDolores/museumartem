@@ -1,0 +1,32 @@
+.social-networks {
+  width: 2.5rem;
+}
+
+.mapa {
+  width: 19.5;
+  height: 14.5;
+  display: block;
+  margin-top: 0.5rem;
+  max-width: 100%;
+  width: 80%;
+}
+
+.iconSpace {
+  margin-right: .5rem;
+}
+
+.textSpace {
+  margin-top: -4rem;
+}
+
+.textPicasso {
+  font-size: 1.4rem;
+}
+
+.textFooter {
+  font-family: 'Lato', sans-serif;
+}
+
+.titleFooter {
+  font-weight: 600;
+}

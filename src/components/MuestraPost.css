@@ -1,0 +1,20 @@
+.muestra-posts{
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: justify;
+    margin: 0px 1rem;
+}
+h4{
+    text-decoration: underline;
+}
+span{
+    text-decoration: underline;
+}
+.tarjeta-post{
+    padding: 0px 1rem;
+    margin: 1rem 0px;
+    border-radius: 10px;
+background: #fd9a8f;
+box-shadow:  -5px 5px 10px #d7837a,
+             5px -5px 10px #ffb1a4;
+}

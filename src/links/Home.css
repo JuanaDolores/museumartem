@@ -1,0 +1,56 @@
+.title {
+  padding-bottom: 2rem;
+  font-family: 'Righteous', cursive;
+  text-transform: uppercase;
+  color: #353535;
+  text-decoration-line: underline;
+  text-decoration-color: #6BABCB;
+  text-decoration-style: double;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+
+.card-title {
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+
+.card-titleGray {
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  color: #353535;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+
+.card-text {
+  font-family: 'Lato', sans-serif;
+  padding-right: 3rem;
+}
+
+#box-nazan {
+  padding-left: 3rem;
+}
+
+.textItalic {
+  font-style: italic;
+  font-weight: 600;
+}
+
+.titleColour {
+  color: rgb(255, 255, 255);
+}
+
+.space {
+  padding-left: 2rem;
+}
+
+.iconSpaceFooter {
+  margin-bottom: .3rem;
+  margin-right: .3rem;
+}

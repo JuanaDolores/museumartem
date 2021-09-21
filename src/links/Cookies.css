@@ -1,0 +1,36 @@
+.cookieImage {
+  width: 10%;
+  display: block;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+.video {
+  display: block;
+  margin: auto;
+}
+
+.extensiveText {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  font-family: 'Lato', sans-serif;
+}
+
+.deleleStyle {
+  list-style: none;
+}
+
+.titleSpace {
+  margin-bottom: .5rem;
+  margin-top: 1rem;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.spaceTop {
+  margin-top: 2rem;
+}
+
+.spaceBotton {
+  margin-bottom: 3rem;
+}

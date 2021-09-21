@@ -1,0 +1,114 @@
+.card {
+  display: relative;
+  box-shadow: 0 2px 13px rgba(0, 0, 0, 0.26);
+  padding: 1rem;
+  overflow: hidden;
+}
+
+.authentication {
+  max-width: 30rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin-bottom: 1rem;
+}
+
+.name{
+margin-bottom: 20px;
+}
+
+.text-area{
+  width:16,5rem;
+  height:10rem;
+}
+.opinion{
+  margin-top: 10px;
+}
+.opinion{
+  margin-top: 10px;
+  position:flex;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  margin-left: 0px;
+  text-align:right;
+  background-color:#03a9f4
+}
+
+input[type="checkbox"]
+{
+  position:relative;
+  width:40px;
+  height:20px;
+  -webkit-appearance: none;
+  background: #c6c6c6;
+  outline:none;
+  border-radius: 20px;
+  box-shadow: inset 0 0 5px rgba(0,0,0.2);
+  transition:.5s;
+  margin-right: -200px;
+}
+input:checked[type="checkbox"]
+{
+  background: #03a9f4
+}
+input[type="checkbox"]::before
+{
+  content: "";
+  position:absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  top:0;
+  left:0;
+  background:#fff;
+  transform: scale(1.1);
+  box-shadow: 0 2px 5px rgba(0,0,0.2);
+  transition: .5s;
+}
+input:checked[type="checkbox"]:before
+{
+  left: 20px;
+}
+.boolean{
+  padding-top:2px;
+  position:relative;
+}
+.creator{
+  margin-top: 10px;
+}
+.buttonF{
+  margin-top: 20px;
+  width: 10rem;
+  margin-left: 8rem;
+}
+
+/* Formulario de Login y registro */
+
+.user{
+  margin-bottom: 15px;
+  border-radius:5px;
+}
+.email{
+  margin-bottom: 15px;
+  border-radius:3px;
+}
+.pass{
+  margin-bottom: 15px;
+  border-radius:3px;
+}
+.buttonL{
+  margin-top: 10px;
+  width: 10rem;
+  margin-left: 30%;
+  border-radius:10px;
+}
+
+.buttonR{
+  margin-top: 10PX;
+  width:15rem;
+  margin-left: 23%;
+  border-radius:10px;
+}

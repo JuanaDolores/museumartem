@@ -1,0 +1,33 @@
+.bm-burger-button {
+  position: fixed;
+  width: 2rem;
+  height: 2rem;
+  left: 2rem;
+  top: 2rem;
+}
+
+.bm-burger-bars {
+  background: #6BABCB;
+}
+
+.bm-cross {
+  background: #ffffff;
+}
+
+.bm-menu {
+  background: #6BABCB;
+  padding: 2.5rem 1.5rem;
+  font-size: 1.15em;
+}
+
+.bm-item-list {
+  padding: 0.5em;
+}
+
+.bm-item {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.7rem;
+  font-family: 'Lato', sans-serif;
+}
